@@ -1,0 +1,6 @@
+{
+  "name": "ALPHA 6 — Aerial Search & Rescue",
+  "description": "Autonomous aerial damage assessment and human survivor detection system storing GPS coordinates for detected survivors above 50% confidence.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
